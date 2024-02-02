@@ -3,7 +3,6 @@
 
 ### About Me
 - I am 52 years old and I am from Matanzas, Cuba.
-- I am a full stack MERN and PERN developer.
 - I have been a Telecommunications Engineer for more than twenty years, a self-taught and highly creative person who seeks to learn and improve every day.
 - In 2010 I left my job as a computer scientist for companies and started as a Freelancer, wanting to grow as a professional in different spheres of computing, both in services provided and in the software development industry. As a short and medium-term objective, collaborate with different development projects and create synergies to develop ideas for future forms of business.
 - I enjoy working in development teams, although I have developed several projects individually and/or collectively, because I want to provide the best visual experience to users who visit my projects.
