@@ -9,6 +9,7 @@
 
 ### Technologies
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
+  ![Codeigniter](https://img.shields.io/badge/-Codeigniter-333333?style=flat&logo=codeigniter)  
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SASS&logoColor=CE6B9E)
