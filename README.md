@@ -13,7 +13,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SASS&logoColor=CE6B9E)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
-  ![Php](https://img.shields.io/badge/-Python-333333?style=flat&logo=php)
+  ![Php](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   <br/>
   ![Mysql](https://img.shields.io/badge/-Mysql-333333?style=flat&logo=Mysql)
