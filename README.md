@@ -14,7 +14,7 @@
   ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SASS&logoColor=CE6B9E)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
   ![Php](https://img.shields.io/badge/-Python-333333?style=flat&logo=php)
-  ![Python](https://img.shields.io/badge/-Redux-333333?style=flat&logo=python)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   <br/>
   ![Mysql](https://img.shields.io/badge/-Mysql-333333?style=flat&logo=Mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
