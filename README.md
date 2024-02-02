@@ -25,7 +25,7 @@
 
 ### Contact Me
 <a href="https://linkedin.com/in/regis-cáceres-turiño-94252176/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Regis%20C%C3%A1ceres-blue?style=flat-square&logo=linkedin"></a>
-<a href="regis.cacerest@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-regis.cacerest@gmail.com-blue?style=flat-square&logo=gmail"></a>  
+<img alt="Email" src="https://img.shields.io/badge/Gmail-regis.cacerest@gmail.com-blue?style=flat-square&logo=gmail"> 
 
 
 <!---
