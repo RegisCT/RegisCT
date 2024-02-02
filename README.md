@@ -18,7 +18,7 @@
   ![Php](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   <br/>
-  ![Mysql](https://img.shields.io/badge/-Mysql-#D35400?style=flat&logo=Mysql)
+  ![Mysql](https://img.shields.io/badge/-Mysql-D35400?style=flat&logo=Mysql)
   ![MariaDB](https://img.shields.io/badge/-MariaDB-blue?style=flat&logo=mariadb)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
