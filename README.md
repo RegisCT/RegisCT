@@ -19,7 +19,7 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   <br/>
   ![Mysql](https://img.shields.io/badge/-Mysql-333333?style=flat&logo=Mysql)
-  ![MariaDB](https://img.shields.io/badge/-MariaDB-00000?style=flat&logo=mariadb)
+  ![MariaDB](https://img.shields.io/badge/-MariaDB-blue?style=flat&logo=mariadb)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 
